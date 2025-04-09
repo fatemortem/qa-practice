@@ -10,12 +10,7 @@
 
 ## Структура проекта:
 
-test_project/
-├── pages/                  # Page Object классы
-├── tests/                  # Позитивные и негативные тесты
-├── conftest.py             # Фикстуры (setup/teardown)
-├── pytest.ini              # Конфиг для Pytest
-├── requirements.txt        # Зависимости
+test_project/ ├── pages/ # Page Object классы ├── tests/ # Позитивные и негативные тесты ├── conftest.py # Фикстуры (setup/teardown) ├── pytest.ini # Конфиг для Pytest ├── requirements.txt # Зависимости
 
 ## Запуск тестов:
 
